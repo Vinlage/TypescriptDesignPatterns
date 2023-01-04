@@ -4,7 +4,7 @@
 
 ## Designs utilizados
 
-1 - Strategy Pattern
+- Strategy Pattern
 2 - Observer Pattern
 3 - Decorator Pattern
 4 - Factory Pattern
