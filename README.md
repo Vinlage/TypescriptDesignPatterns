@@ -17,4 +17,4 @@
 
 ## Bibliografia
 
-### Use a Cabeça! Padrões de Projetos. 2ª Edição
+Use a Cabeça! Padrões de Projetos. 2ª Edição
