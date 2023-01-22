@@ -14,6 +14,7 @@
 8. Facade Pattern
 9. Template Method Pattern
 10. Iterator Pattern
+11. Composite Pattern
 
 
 
