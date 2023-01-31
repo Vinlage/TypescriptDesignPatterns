@@ -16,6 +16,7 @@
 10. Iterator Pattern
 11. Composite Pattern
 12. State Pattern
+13. Proxy Pattern
 
 
 ## Bibliografia
