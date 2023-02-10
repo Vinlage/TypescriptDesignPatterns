@@ -18,6 +18,7 @@
 12. State Pattern
 13. Proxy Pattern
 14. Bridge Pattern
+15. Builder Pattern
 
 
 ## Bibliografia
