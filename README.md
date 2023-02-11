@@ -20,6 +20,7 @@
 14. Bridge Pattern
 15. Builder Pattern
 16. Chain of Responsibility Pattern
+17. Flyweight Pattern
 
 
 ## Bibliografia
