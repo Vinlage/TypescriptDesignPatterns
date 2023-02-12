@@ -22,6 +22,7 @@
 16. Chain of Responsibility Pattern
 17. Flyweight Pattern
 18. Interpreter Pattern
+19. Mediator Pattern
 
 
 ## Bibliografia
