@@ -21,6 +21,7 @@
 15. Builder Pattern
 16. Chain of Responsibility Pattern
 17. Flyweight Pattern
+18. Interpreter Pattern
 
 
 ## Bibliografia
