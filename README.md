@@ -23,6 +23,7 @@
 17. Flyweight Pattern
 18. Interpreter Pattern
 19. Mediator Pattern
+20. Memento Pattern
 
 
 ## Bibliografia
