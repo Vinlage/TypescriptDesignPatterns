@@ -24,6 +24,7 @@
 18. Interpreter Pattern
 19. Mediator Pattern
 20. Memento Pattern
+21. Prototype Pattern
 
 
 ## Bibliografia
